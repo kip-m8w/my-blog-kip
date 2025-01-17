@@ -1,0 +1,31 @@
+header {
+    border: solid 5px;
+    border-color: rgb(41, 41, 41);
+    background-color:rgb(255, 246, 253);
+    text-align: center;
+    padding: 20px;
+    border-radius:10px;
+}
+nav{
+    background-color: aquamarine;
+    height: 55px;
+}
+aside {
+    width: 20%;
+    padding: 10px;
+    border: solid 5px rgb(41, 41, 41);
+    background-color: rgb(105, 105, 105);
+    color: white;
+    margin-top: 5px;
+}
+section{
+    width: 80%;
+    padding: 10px;
+    margin-top: 5px;
+}
+footer{
+    clear: both;
+}
+main{
+    display: flex;
+}
